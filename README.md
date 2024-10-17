@@ -1,10 +1,10 @@
 # CODETECH-task1
 
-Name: E. Nagamani
-Company: CODETECH IT SOLUTIONS
-ID: CT08DS8674
-Domain: Web Development
-Duration: Sep to Oct 2024
+Name: E. Nagamani<br>
+Company: CODETECH IT SOLUTIONS<br>
+ID: CT08DS8674<br>
+Domain: Web Development<br>
+Duration: Sep to Oct 2024<br>
 
 Overview of the Project
 
