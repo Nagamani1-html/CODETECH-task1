@@ -16,7 +16,7 @@ The objective of the project is to build web app on to-do list. to-do list web a
 
 Technolgies used:
 
-•	HTML: A to-do list web app built using HTML provides a simple, structured framework for creating and managing tasks. HTML defines the app's core elements, such as task input fields, lists, buttons, and form structures.
-•	CSS: Cascading Style Sheets (CSS) is a powerful design language used to control the presentation and layout of web pages.
-•	Javascript: JavaScript’s dynamic capabilities to offer features like drag-and-drop task reordering, customizable lists, and smart reminders.
+•	HTML: A to-do list web app built using HTML provides a simple, structured framework for creating and managing tasks. HTML defines the app's core elements, such as task input fields, lists, buttons, and form structures.<br>
+•	CSS: Cascading Style Sheets (CSS) is a powerful design language used to control the presentation and layout of web pages.<br>
+•	Javascript: JavaScript’s dynamic capabilities to offer features like drag-and-drop task reordering, customizable lists, and smart reminders.<br>
 
